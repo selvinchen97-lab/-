@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="指标管理系统原型交互演示">
+  <title>指标管理系统</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="prototype-shell">
+    <header class="system-header">
+      <div class="system-name"><span class="brand-icon">数</span><span><strong>指标管理系统</strong><small>口岸物流数据平台</small></span></div>
+      <div class="breadcrumb" id="breadcrumb">指标库管理/指标列表</div>
+      <div class="account"><span class="avatar">管</span><span>管理员</span></div>
+    </header>
+    <div class="body-shell">
+      <aside class="sidebar" id="sidebar">
+        <nav aria-label="主导航">
+          <div class="nav-title">指标库管理</div>
+          <button class="nav-item active" data-page="indicators">指标列表</button>
+          <button class="nav-item" data-page="maintenance">指标维护</button>
+          <div class="nav-title">指标填报</div>
+          <button class="nav-item" data-page="tasks">填报任务</button>
+          <button class="nav-item" data-page="workspace">填报工作台</button>
+          <button class="nav-item" data-page="records">填报记录</button>
+          <div class="nav-title">统计与分析</div>
+          <button class="nav-item" data-page="reports">报表中心</button>
+          <button class="nav-item" data-page="analysis">指标分析</button>
+          <div class="nav-title">指标共享</div>
+          <button class="nav-item" data-page="sharing">共享配置</button>
+          <div class="nav-title">基础数据管理</div>
+          <button class="nav-item" data-page="departments">责任主体管理</button>
+          <button class="nav-item" data-page="periods">周期管理</button>
+          <button class="nav-item" data-page="batches">任务批次管理</button>
+          <button class="nav-item" data-page="users">用户管理</button>
+        </nav>
+      </aside>
+      <main class="main">
+        <button class="mobile-menu" id="menuToggle" aria-label="切换菜单">☰</button>
+        <div class="page" id="app"></div>
+      </main>
+    </div>
+  </div>
+  <div class="modal-backdrop" id="modalBackdrop" hidden>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <header class="modal-header"><h2 id="modalTitle">编辑</h2><button class="modal-close" id="modalClose" aria-label="关闭">×</button></header>
+      <form id="modalForm" class="modal-body"></form>
+    </section>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js"></script>
+</body>
+</html>
