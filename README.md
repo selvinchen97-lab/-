@@ -29,7 +29,6 @@
 - **XMind**：下载后在 XMind 中打开，按照系统、模块、子模块、功能点组织；默认收起模块和子模块。结构与 269 项功能数已校验，尚未在本机 XMind 应用内验证。
 - **Figma**：图片用于静态审阅；实际点击交互和可编辑图层保留在 Figma 链接中，访问权限由 Figma 控制。仓库中的 PNG 不包含交互。
 - **截图覆盖**：已归档 59 张；其余 32 个画板受 Figma MCP 套餐调用额度上限影响，本次提供名称与直达链接。完整清单见原型索引。
-- **本地 Demo**：已有静态演示位于 `sites/indicator-management-demo/dist/`，可使用 `python3 -m http.server 8000 --directory sites/indicator-management-demo/dist` 后访问 `http://localhost:8000`。该 Demo 是历史实现，不保证与最新 Figma 全部一致。
 
 ## 目录与历史版本
 
@@ -39,7 +38,6 @@ docs/                产品规则、页面地图及本次讨论结论
 outputs/             Word 修订成果（以“保留原文修订版”为准）
 prototypes/figma/     Figma 导出的页面图片与页面索引
 sources/             本次五因子表和原始 1110 设计方案
-sites/               已有静态 Demo
 ```
 
 根目录的旧 PRD、使用手册、0907 方案、原型图 PDF 和统计表作为历史资料保留；它们不代表最新 Figma 设计。`docs/01`—`04` 为早期工作记录，若与最新规则存在冲突，以 `docs/05` 及最新成果为准。Word 的“按五因子重写”和“恢复原图原格式”两版保留为过程稿。
