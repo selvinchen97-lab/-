@@ -1,0 +1,816 @@
+[
+  {
+    "id": "3:2",
+    "name": "G00｜原型导览与产品定位",
+    "path": "planning/G00.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 47814,
+    "sha256": "2e1b6cfb67b03f1ccc7b07b78684341672c609e928d37e6517f5f2cd8aeff059",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-2"
+  },
+  {
+    "id": "3:23",
+    "name": "P01｜登录与演示角色选择",
+    "path": "screens/P01.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 34709,
+    "sha256": "e36ce61ec33c882becd625d4d3764a17254dc81278bcf5a885782f1b71296aab",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-23"
+  },
+  {
+    "id": "3:52",
+    "name": "P02｜管理工作台",
+    "path": "screens/P02.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 62370,
+    "sha256": "452b4fec2f72d3f43215d1e9679660c0abc8da6eaa4f27aec36dbec2d7f595cc",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-52"
+  },
+  {
+    "id": "3:145",
+    "name": "P03｜指标库管理",
+    "path": "screens/P03.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 61167,
+    "sha256": "721ebe77762b8e59fee5a09d5c1ff335910a3c2b53e77697bebbbd2ff52597bd",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-145"
+  },
+  {
+    "id": "3:245",
+    "name": "P04｜指标详情",
+    "path": "screens/P04.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 63628,
+    "sha256": "cc3194bffbea2701c6de4c3e6991d1e508ccedb4c530f8e628f10aa15aad322d",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-245"
+  },
+  {
+    "id": "3:328",
+    "name": "P05｜新增 / 编辑指标",
+    "path": "screens/P05.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 56370,
+    "sha256": "b0902db5b56fe3c1570e050acc784801ba0aa454ee014543112ea0b2e05d8084",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-328"
+  },
+  {
+    "id": "3:405",
+    "name": "P06｜部门指标库",
+    "path": "screens/P06.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 57343,
+    "sha256": "790110798bf377aacc8f2fd1f649876891587c8aa7212daf86a97182d12f1735",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=3-405"
+  },
+  {
+    "id": "4:235",
+    "name": "P07｜复合指标组装",
+    "path": "screens/P07.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 65206,
+    "sha256": "ab33ab5f84d740c96e759095186454e9c3a40502f432f8efc51cac360a2febe2",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-235"
+  },
+  {
+    "id": "4:332",
+    "name": "P08｜申报周期管理",
+    "path": "screens/P08.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 53092,
+    "sha256": "46b8f5553d27ce532e050c5df55e7206844e006038c1a8ed45c4fe059f6e0a7b",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-332"
+  },
+  {
+    "id": "4:417",
+    "name": "P09｜收集任务管理",
+    "path": "screens/P09.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 59254,
+    "sha256": "d719c88c818cf38c6b612bdfc8e04508f3f5fd93bd9e6d96b5c0ace2b5763fe8",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-417"
+  },
+  {
+    "id": "4:513",
+    "name": "P10｜新建收集任务",
+    "path": "screens/P10.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 61618,
+    "sha256": "13b7413b44be79894d798623d7552d2107533ca2e4075f01e9e38ac538088d20",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-513"
+  },
+  {
+    "id": "4:605",
+    "name": "P11｜任务详情与进度",
+    "path": "screens/P11.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 62490,
+    "sha256": "49ad20598760acd4dbc62ead966abd78a07fcac632aff6e67d2c18f75af71a46",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-605"
+  },
+  {
+    "id": "4:702",
+    "name": "P12｜部门填报详情",
+    "path": "screens/P12.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 58478,
+    "sha256": "b7d49db7f4e093218cd6653aa319cd33f61a57b8becc604b59071ddcd422098f",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-702"
+  },
+  {
+    "id": "4:782",
+    "name": "P13｜历史填报记录",
+    "path": "screens/P13.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 56016,
+    "sha256": "27d25644f5754f18e196a81c5db633f1f2348e8ad31bb9c09a1a23f6fd0eb399",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-782"
+  },
+  {
+    "id": "4:871",
+    "name": "P14｜版本追溯与差异对比",
+    "path": "screens/P14.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 58623,
+    "sha256": "57b561fc2b7d8b11c43c19d7a28f9c05cd07bf56f84b8e1ffb9d761a82cb572c",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=4-871"
+  },
+  {
+    "id": "5:594",
+    "name": "P15｜统计与分析",
+    "path": "screens/P15.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 50669,
+    "sha256": "74e68ab78913c969e9f03784e3b5f9026c29b8ca576b5fdc7ba313bdc5c87298",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-594"
+  },
+  {
+    "id": "5:691",
+    "name": "P28｜授权部门统计报表",
+    "path": "screens/P28.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 47965,
+    "sha256": "c611fd3aa616acdc9068a2d321e5060fd6893edc92fe194b7a6b5e0d519a90fc",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-691"
+  },
+  {
+    "id": "5:778",
+    "name": "P16｜货运量 · 指标分析",
+    "path": "screens/P16.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 63643,
+    "sha256": "037502a1f778438cf8f374d1961961f078b5f39f7bc012079d67ef89a8e4c154",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-778"
+  },
+  {
+    "id": "5:851",
+    "name": "P29｜货运量 · 指标分析",
+    "path": "screens/P29.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 58202,
+    "sha256": "961693b14ba92b969f2c042ae2fa09c85d473175222fe7ef2c67f39ba32ea21f",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-851"
+  },
+  {
+    "id": "5:914",
+    "name": "P17｜指标共享管理",
+    "path": "screens/P17.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 56642,
+    "sha256": "2b58727310d4d90bd98d4a4015838e1d52e99c79d76eeb4f562b687c364d2ccd",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-914"
+  },
+  {
+    "id": "5:998",
+    "name": "P18｜基础数据管理",
+    "path": "screens/P18.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 57844,
+    "sha256": "f8cf52ebc8e7098d678299055695af17248e163c86340080819c0e1e89c69117",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-998"
+  },
+  {
+    "id": "5:1083",
+    "name": "P19｜口岸物流驾驶舱",
+    "path": "screens/P19.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 61227,
+    "sha256": "c3f1ab5d8f14fa8b7af23d86135bb3a69484cb2caa4dd8e6155b33674be63dc5",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-1083"
+  },
+  {
+    "id": "5:1163",
+    "name": "P20｜外部数据对接",
+    "path": "screens/P20.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 55072,
+    "sha256": "95f8065021986096447766a2fc2e983bcd30b4060325859c5a3c96aade72a713",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-1163"
+  },
+  {
+    "id": "5:1239",
+    "name": "P21｜定时任务管理",
+    "path": "screens/P21.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 61581,
+    "sha256": "1f163118413061f96b40348296b47dae221e2b944d80e6998530470998972fa2",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=5-1239"
+  },
+  {
+    "id": "7:938",
+    "name": "P22｜我的填报工作台",
+    "path": "screens/P22.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 52782,
+    "sha256": "295b2ee04b0b92baa308c59989ae798cc5816cd935035538e7782b2b14eb3b15",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-938"
+  },
+  {
+    "id": "7:1012",
+    "name": "P23｜指标填报工作台",
+    "path": "screens/P23.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 58072,
+    "sha256": "758dce61fead10915f3a7aea36e71b4d13877e492b1fa5f607bada4973143413",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1012"
+  },
+  {
+    "id": "7:1084",
+    "name": "P24｜Excel 导入预校验",
+    "path": "screens/P24.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 57808,
+    "sha256": "7eb09d8e53fcfc5a8040520c78afd887c7092d81a1158ad627072f881b1e684a",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1084"
+  },
+  {
+    "id": "7:1146",
+    "name": "P25｜导入校验通过",
+    "path": "screens/P25.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 44094,
+    "sha256": "1d1e0408d88dbc587f3c9c7032026e3653aadaed3eedf7000227e13bb1a8e545",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1146"
+  },
+  {
+    "id": "7:1183",
+    "name": "P26｜已申报详情",
+    "path": "screens/P26.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 53808,
+    "sha256": "64b44ba819d0c5ce771575d9f4f07f09f27f0db33cdc8b9683553b3d3b380b9f",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1183"
+  },
+  {
+    "id": "7:1251",
+    "name": "P27｜数据概览",
+    "path": "screens/P27.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 51373,
+    "sha256": "450a3ae6102d516628875f424a6e218201d3ca8856c8d7883c5a00012f3d3057",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1251"
+  },
+  {
+    "id": "7:1315",
+    "name": "P36｜指标查询 · 无结果",
+    "path": "screens/P36.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 48263,
+    "sha256": "621028084d8b820395d7fc1ae506c994e00309b306b44e994c670554b1fd7db6",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1315"
+  },
+  {
+    "id": "7:1375",
+    "name": "P37｜指标查询结果",
+    "path": "screens/P37.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 46480,
+    "sha256": "44593e7059ba448f5ee2d20cb8bee810dd1dc9b5c755f0891cfdaa4c542c0ac0",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1375"
+  },
+  {
+    "id": "7:1443",
+    "name": "P38｜任务详情 · 已锁定",
+    "path": "screens/P38.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 53363,
+    "sha256": "9692f31afa8832dbae5323a5d11403b8cfeab38315099ce3a43f0621f3f8b436",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1443"
+  },
+  {
+    "id": "7:1508",
+    "name": "P40｜授权部门任务进度",
+    "path": "screens/P40.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 51226,
+    "sha256": "714e62c494bfd6cdb2d0f3276c9392b79715f0d3fd6d764f2c5b421c6b0d799a",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1508"
+  },
+  {
+    "id": "7:1578",
+    "name": "P42｜常量字典管理",
+    "path": "screens/P42.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 47820,
+    "sha256": "3cc2b55be16a8cd8a558d6216c0ed8527c2fd7df5a3a9db3aa79cc25ce5dd19b",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1578"
+  },
+  {
+    "id": "7:1652",
+    "name": "P43｜操作与运行日志",
+    "path": "screens/P43.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 57073,
+    "sha256": "756482fbd6e78c26d646c2f0deab40ecff25e91617b23cd8d693edc0c78c9125",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1652"
+  },
+  {
+    "id": "7:1744",
+    "name": "P44｜指标共享记录",
+    "path": "screens/P44.png",
+    "width": 1024,
+    "height": 683,
+    "bytes": 46046,
+    "sha256": "83c8429cacce698af8f79950eb91cf5c98d5defbd4fb0332a97a083599360688",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=7-1744"
+  },
+  {
+    "id": "8:1322",
+    "name": "D_PICK｜选择字段值",
+    "path": "dialogs/D_PICK.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 18096,
+    "sha256": "ffcd6a0007d96fe8f7b80c27270bb183c38133390fae3d73b22955a0716bbc42",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1322"
+  },
+  {
+    "id": "8:1330",
+    "name": "D_REGISTER｜用户注册",
+    "path": "dialogs/D_REGISTER.png",
+    "width": 560,
+    "height": 503,
+    "bytes": 23461,
+    "sha256": "a9b8d5999002c7c7efeb84d086ef574196ed6494672fa5a30fd6ed70b54e2a84",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1330"
+  },
+  {
+    "id": "8:1350",
+    "name": "D_REGISTER_OK｜注册信息已提交",
+    "path": "dialogs/D_REGISTER_OK.png",
+    "width": 560,
+    "height": 200,
+    "bytes": 13204,
+    "sha256": "792f4df5e37904823984815324b0a85a49c53fc7fe63d93eabe25d6b60804e9e",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1350"
+  },
+  {
+    "id": "8:1355",
+    "name": "D_IND_SAVED｜指标保存成功",
+    "path": "dialogs/D_IND_SAVED.png",
+    "width": 560,
+    "height": 200,
+    "bytes": 13918,
+    "sha256": "494629dd4bed9951474207449ab84ca11699b1a86f0a4c97e7a16c7e679e0906",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1355"
+  },
+  {
+    "id": "8:1363",
+    "name": "D_VALIDATION｜请先修正必填项",
+    "path": "dialogs/D_VALIDATION.png",
+    "width": 560,
+    "height": 266,
+    "bytes": 22246,
+    "sha256": "c43f3d038ad936e9d6f12a863cea91ce9308538487f94cd1c152b2aabecf108a",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1363"
+  },
+  {
+    "id": "8:1369",
+    "name": "D_ASSIGN｜选择指标与责任部门",
+    "path": "dialogs/D_ASSIGN.png",
+    "width": 560,
+    "height": 388,
+    "bytes": 21855,
+    "sha256": "c396a3f1ba65b09f6ce33957b053a65792eaf94851e879f9deb60ebe8f2a3691",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1369"
+  },
+  {
+    "id": "8:1385",
+    "name": "D_IMPORT_LIBRARY｜导入部门指标库",
+    "path": "dialogs/D_IMPORT_LIBRARY.png",
+    "width": 560,
+    "height": 287,
+    "bytes": 21845,
+    "sha256": "c86daf97f92fe17e01b56f155b8a82976b357c08ca8c9ebf9171581e798df017",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1385"
+  },
+  {
+    "id": "8:1394",
+    "name": "D_SAVED｜保存成功",
+    "path": "dialogs/D_SAVED.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 12491,
+    "sha256": "e35550674eb87a13c3af73625e40c1a51a49528b7d1470329eef692056aaa9ff",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1394"
+  },
+  {
+    "id": "8:1399",
+    "name": "D_CALC｜公式试算通过",
+    "path": "dialogs/D_CALC.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 15406,
+    "sha256": "75ea83918cc70733f936b130848ac2fe44da846a5e3e230ee385c2efce250436",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1399"
+  },
+  {
+    "id": "8:1404",
+    "name": "D_RECALC｜确认级联重算",
+    "path": "dialogs/D_RECALC.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 16675,
+    "sha256": "856a597fcb49cfd2f60dc4d87b05335f125705e9a0ebb37a3e494870039d9279",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1404"
+  },
+  {
+    "id": "8:1412",
+    "name": "D_RECALC_OK｜重算完成",
+    "path": "dialogs/D_RECALC_OK.png",
+    "width": 560,
+    "height": 200,
+    "bytes": 13054,
+    "sha256": "a91941d9122d201998b883b848497f28ace09831b036641121cca4eb65bf3982",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1412"
+  },
+  {
+    "id": "8:1420",
+    "name": "D_PERIOD｜确认发布申报周期",
+    "path": "dialogs/D_PERIOD.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 15147,
+    "sha256": "ca9639ea0a3791395b8737dffce8d68c8e34a231ad9dbef39d84f06127ca64c4",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1420"
+  },
+  {
+    "id": "8:1428",
+    "name": "D_PERIOD_CANCEL｜确认取消发布",
+    "path": "dialogs/D_PERIOD_CANCEL.png",
+    "width": 560,
+    "height": 266,
+    "bytes": 19905,
+    "sha256": "79c66959e1cde52dea8ea628762d9c7cac32a4178ae9cacb17c0a1386756a8e7",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1428"
+  },
+  {
+    "id": "8:1437",
+    "name": "D_DRAFT｜草稿已保存",
+    "path": "dialogs/D_DRAFT.png",
+    "width": 560,
+    "height": 200,
+    "bytes": 12394,
+    "sha256": "b35fe73ebe5a5018121c4ce063f820329a305b280afa6eff58b63db611164951",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1437"
+  },
+  {
+    "id": "8:1445",
+    "name": "D_PUBLISH｜确认发布收集任务",
+    "path": "dialogs/D_PUBLISH.png",
+    "width": 560,
+    "height": 263,
+    "bytes": 20299,
+    "sha256": "63fcfd33d790ee312ba834cd9154d9be9935e214eb365f8a9f666ac613462f00",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1445"
+  },
+  {
+    "id": "8:1453",
+    "name": "D_REMIND｜确认发送任务提醒",
+    "path": "dialogs/D_REMIND.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 17123,
+    "sha256": "ff094ca5a4797ff684ea5cb47ba072b890519c6f4935be97134641b03a0a4760",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1453"
+  },
+  {
+    "id": "8:1461",
+    "name": "D_REMIND_OK｜提醒已发送",
+    "path": "dialogs/D_REMIND_OK.png",
+    "width": 560,
+    "height": 200,
+    "bytes": 13286,
+    "sha256": "2dadc2ef1aad51c1413fb5fdf6082c4d5a07c4613a718d5b02ee46e61a9de7ac",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1461"
+  },
+  {
+    "id": "8:1469",
+    "name": "D_EXTEND｜延期开放填报",
+    "path": "dialogs/D_EXTEND.png",
+    "width": 560,
+    "height": 388,
+    "bytes": 20475,
+    "sha256": "e062303d7e643ee42ac5c031bc746086fc18b4e8f66e4dd51c6a8913f10e7e24",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1469"
+  },
+  {
+    "id": "8:1485",
+    "name": "D_LOCK｜确认锁定任务",
+    "path": "dialogs/D_LOCK.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 17544,
+    "sha256": "6be12c833861bfbec2644c8a41b9f0724ef9ae4f2e701c6562a9441b044993a2",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1485"
+  },
+  {
+    "id": "8:1550",
+    "name": "D_TEMPLATE｜填报模板已准备",
+    "path": "dialogs/D_TEMPLATE.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 17209,
+    "sha256": "d8934ba4268473431091c25962d26d07de4017424b8b382de1a44e896c02f31b",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1550"
+  },
+  {
+    "id": "8:1677",
+    "name": "D_RUN_JOB｜立即触发定时任务",
+    "path": "dialogs/D_RUN_JOB.png",
+    "width": 560,
+    "height": 221,
+    "bytes": 15340,
+    "sha256": "f5f489b0232419869c7ddd1d967deaadb6d50483fc7304b56f2f333be69cf747",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1677"
+  },
+  {
+    "id": "9:1493",
+    "name": "G01｜产品策划 / 从指标口径到有效数据",
+    "path": "planning/G01.png",
+    "width": 1024,
+    "height": 921,
+    "bytes": 93417,
+    "sha256": "4a5a74a8072540cba9b4e48c87dcf8b6dd8aeb314baa801027c07fb72a11537a",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=9-1493"
+  },
+  {
+    "id": "8:1493",
+    "name": "D_UNLOCK｜解锁并开放任务",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1493"
+  },
+  {
+    "id": "8:1509",
+    "name": "D_CORRECT｜开放部门更正",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1509"
+  },
+  {
+    "id": "8:1525",
+    "name": "D_CORRECT_OK｜已开放更正",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1525"
+  },
+  {
+    "id": "8:1533",
+    "name": "D_ROLLBACK｜确认版本回退",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1533"
+  },
+  {
+    "id": "8:1545",
+    "name": "D_EXPORT｜导出任务已创建",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1545"
+  },
+  {
+    "id": "8:1555",
+    "name": "D_SUBMIT｜确认申报本期数据",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1555"
+  },
+  {
+    "id": "8:1563",
+    "name": "D_WITHDRAW｜确认取消申报",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1563"
+  },
+  {
+    "id": "8:1571",
+    "name": "D_AUTH｜用户角色与数据范围",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1571"
+  },
+  {
+    "id": "8:1591",
+    "name": "D_USER｜新增用户",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1591"
+  },
+  {
+    "id": "8:1611",
+    "name": "D_DEPT｜部门信息维护",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1611"
+  },
+  {
+    "id": "8:1627",
+    "name": "D_MENU｜角色菜单配置",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1627"
+  },
+  {
+    "id": "8:1635",
+    "name": "D_DICT｜编辑常量字典项",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1635"
+  },
+  {
+    "id": "8:1651",
+    "name": "D_CACHE｜字典缓存已刷新",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1651"
+  },
+  {
+    "id": "8:1656",
+    "name": "D_SYSTEM｜系统信息",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1656"
+  },
+  {
+    "id": "8:1661",
+    "name": "D_SOURCE｜外部数据详情",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1661"
+  },
+  {
+    "id": "8:1669",
+    "name": "D_RUN_SOURCE｜确认执行外部数据任务",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1669"
+  },
+  {
+    "id": "8:1685",
+    "name": "D_JOB_OK｜执行请求已受理",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1685"
+  },
+  {
+    "id": "8:1693",
+    "name": "D_PAUSE｜暂停后续调度",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1693"
+  },
+  {
+    "id": "8:1701",
+    "name": "D_PAUSE_OK｜定时计划已暂停",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1701"
+  },
+  {
+    "id": "8:1709",
+    "name": "D_RESUME｜确认恢复调度",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1709"
+  },
+  {
+    "id": "8:1717",
+    "name": "D_DELETE_JOB｜暂不可删除",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1717"
+  },
+  {
+    "id": "8:1722",
+    "name": "D_SHARE_DETAIL｜共享批次详情",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1722"
+  },
+  {
+    "id": "8:1730",
+    "name": "D_CHART｜图表切换",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1730"
+  },
+  {
+    "id": "8:1738",
+    "name": "D_PREVIEW｜报表临时预览",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1738"
+  },
+  {
+    "id": "8:1746",
+    "name": "D_COCKPIT｜专题数据详情",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1746"
+  },
+  {
+    "id": "8:1762",
+    "name": "D_COCKPIT_RESULT｜专题查询结果",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1762"
+  },
+  {
+    "id": "8:1767",
+    "name": "P39｜任务详情 · 锁定成功",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=8-1767"
+  },
+  {
+    "id": "9:1537",
+    "name": "G02｜交互规则 / 状态与按钮约定",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=9-1537"
+  },
+  {
+    "id": "9:1598",
+    "name": "G03｜功能范围 / 九个模块的原型映射",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=9-1598"
+  },
+  {
+    "id": "10:1651",
+    "name": "D_QUERY｜查询完成",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=10-1651"
+  },
+  {
+    "id": "10:1656",
+    "name": "D_RESET｜筛选已重置",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=10-1656"
+  },
+  {
+    "id": "21:1603",
+    "name": "D_CHART_TABLE｜明细表预览",
+    "path": null,
+    "status": "未导出：Figma MCP 套餐调用额度上限",
+    "figma_url": "https://www.figma.com/design/yTKn40CTJ1fL8CSur9ApcQ?node-id=21-1603"
+  }
+]
